@@ -1,10 +1,10 @@
 Visit the below endpoints<br/>
 
 Login:<br/>
-http://YOUR_MACHINE_IP/android_login_api/login.php<br/><br/>
+http://androidapi.162.243.79.206.xip.io/login.php<br/><br/>
 
 Registration:<br/>
-http://YOUR_MACHINE_IP/android_login_api/register.php<br/><br/>
+hhttp://androidapi.162.243.79.206.xip.io/register.php<br/><br/>
 
-Tutorial link:<br/>
-<a href="http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/">http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/</a>
+<br/><br/>
+Ramon McDonald copyright@2017
